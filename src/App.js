@@ -58,7 +58,7 @@ const App = () => {
   return (
     <div className="app">
       <header className="header">
-        <h1 className="title">Airline Routes</h1>
+        <h1 className="title">Sky Radar</h1>
       </header>
       <section>
         <Map routes={filteredRoutes} />
