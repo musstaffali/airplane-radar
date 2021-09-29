@@ -25,8 +25,9 @@ A high-fidelity fully-fledged model eCommerce store designed to allow users to b
 
 #### Technologies
 
-- Next.js
-- ReactStrap
+- React.js
+- HTML
+- CSS
 
 [Back To The Top](#read-me-template)
 
