@@ -2,9 +2,7 @@
 
 - Live Link - [Live Website](https://furniturefield.herokuapp.com)
 
-![](img/Screen%20Shot%202021-08-11%20at%206.53.42%20PM.png)
-![](img/Screen%20Shot%202021-08-11%20at%207.42.33%20PM.png)
-![](img/Screen%20Shot%202021-08-11%20at%207.43.37%20PM.png)
+![](img/airline.png)
 
 
 ---
