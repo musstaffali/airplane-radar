@@ -20,7 +20,7 @@
 
 ## Description
 
-A high-fidelity fully-fledged model eCommerce store designed to allow users to buy a variety of furniture online.
+A webpage that engages in flight routes acorss the globe
 
 
 #### Technologies
