@@ -28,6 +28,7 @@ A high-fidelity fully-fledged model eCommerce store designed to allow users to b
 - React.js
 - HTML
 - CSS
+- Inner Database
 
 [Back To The Top](#read-me-template)
 
