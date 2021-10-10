@@ -76,8 +76,8 @@ SOFTWARE.
 
 ## Author Info
 
-- Twitter - [@StaffFromAfrica](https://twitter.com/StaffFromAfrica
-- Website - [Mustafa Mustafa](https://jamesqquick.com)
+- Twitter - [@StaffFromAfrica](https://twitter.com/StaffFromAfrica)
+- Website - [Mustafa Mustafa](https://mumustafam.com)
 - Linkedin - [Mustafa Mustafa](https://www.linkedin.com/in/mustafa-inc/)
 
 
